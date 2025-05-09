@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders. frontend\\pages\\conutries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|solutionrelative:orders. frontend\\pages\\conutries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders. frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|solutionrelative:orders. frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders. frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|solutionrelative:orders. frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders. frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|solutionrelative:orders. frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A82D619C-C278-4817-8DB6-F7FD460BAFAB}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|c:\\users\\ryzen 5\\desktop\\estudio\\sena\\.net\\orders\\orders\\orders. frontend\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB30125D-D341-48BA-89DD-4E3C575E21BE}|Orders. Frontend\\Orders. Frontend.csproj|solutionrelative:orders. frontend\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericList.razor",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Shared\\GenericList.razor",
+              "RelativeDocumentMoniker": "Orders. Frontend\\Shared\\GenericList.razor",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Shared\\GenericList.razor",
+              "RelativeToolTip": "Orders. Frontend\\Shared\\GenericList.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:18:13.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Orders. Frontend\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Orders. Frontend\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:18:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Orders.Backend\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:14:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeToolTip": "Orders.Backend\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:13:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Orders. Frontend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Orders. Frontend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T15:07:19.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Orders.Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Orders.Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T15:06:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Orders.Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\appsettings.json",
+              "RelativeToolTip": "Orders.Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T15:06:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Pages\\_Imports.razor",
+              "RelativeDocumentMoniker": "Orders. Frontend\\Pages\\_Imports.razor",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Pages\\_Imports.razor",
+              "RelativeToolTip": "Orders. Frontend\\Pages\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:02:55.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesIndex.razor",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Pages\\Conutries\\CountriesIndex.razor",
+              "RelativeDocumentMoniker": "Orders. Frontend\\Pages\\Conutries\\CountriesIndex.razor",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders. Frontend\\Pages\\Conutries\\CountriesIndex.razor",
+              "RelativeToolTip": "Orders. Frontend\\Pages\\Conutries\\CountriesIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:01:45.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

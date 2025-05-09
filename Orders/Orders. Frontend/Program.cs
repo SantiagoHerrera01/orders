@@ -1,0 +1,15 @@
+using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using Orders._Frontend;
+using Orders.Frontend.Repositories;
+
+var builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.RootComponents.Add<App>("#app");
+builder.RootComponents.Add<HeadOutlet>("head::after");
+
+
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("http://localhost:5199/") });
+builder.Services.AddScoped<IRepository, Repository>();
+
+
+await builder.Build().RunAsync();
