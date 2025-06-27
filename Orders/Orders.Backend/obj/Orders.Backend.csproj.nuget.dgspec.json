@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Orders.Backend.csproj": {}
+    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Backend\\Orders.Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Orders.Backend.csproj": {
+    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Backend\\Orders.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Orders.Backend.csproj",
+        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Backend\\Orders.Backend.csproj",
         "projectName": "Orders.Backend",
-        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\Orders.Backend.csproj",
+        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Backend\\Orders.Backend.csproj",
         "packagesPath": "C:\\Users\\RYZEN 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Backend\\obj\\",
+        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Si\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj": {
-                "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj"
+              "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj": {
+                "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj"
               }
             }
           }
@@ -55,23 +55,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
@@ -97,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj": {
+    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj",
         "projectName": "Orders.Shared",
-        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj",
+        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj",
         "packagesPath": "C:\\Users\\RYZEN 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\obj\\",
+        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Si\\NuGetPackages"

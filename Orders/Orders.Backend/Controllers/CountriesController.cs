@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Orders.Backend.Data;
-using Orders.Shared.Entities;
+using Orders.Backend.Data; // Namespace de tu DataContext
+using Orders.Shared.Entities; // Namespace de tu entidad Country
 
 namespace Orders.Backend.Controllers
 {
@@ -30,16 +30,30 @@ namespace Orders.Backend.Controllers
             {
                 return NotFound();
             }
-
             return Ok(country);
         }
 
         [HttpPost]
         public async Task<IActionResult> PostAsync(Country country)
         {
-            _context.Add(country);
-            await _context.SaveChangesAsync();
-            return Ok(country);
+            try
+            {
+                _context.Add(country);
+                await _context.SaveChangesAsync();
+                return Ok(country);
+            }
+            catch (DbUpdateException dbUpdateException)
+            {
+                if (dbUpdateException.InnerException!.Message.Contains("duplicate"))
+                {
+                    return BadRequest($"Ya existe un país con el nombre {country.Name}.");
+                }
+                return BadRequest(dbUpdateException.Message);
+            }
+            catch (Exception exception)
+            {
+                return BadRequest(exception.Message);
+            }
         }
 
         [HttpDelete("{id}")]
@@ -53,15 +67,30 @@ namespace Orders.Backend.Controllers
 
             _context.Remove(country);
             await _context.SaveChangesAsync();
-            return NoContent();
+            return NoContent(); // 204 No Content es apropiado para delete exitoso
         }
 
         [HttpPut]
         public async Task<IActionResult> PutAsync(Country country)
         {
-            _context.Update(country);
-            await _context.SaveChangesAsync();
-            return Ok(country);
+            try
+            {
+                _context.Update(country);
+                await _context.SaveChangesAsync();
+                return Ok(country);
+            }
+            catch (DbUpdateException dbUpdateException)
+            {
+                if (dbUpdateException.InnerException!.Message.Contains("duplicate"))
+                {
+                    return BadRequest($"Ya existe un país con el nombre {country.Name}.");
+                }
+                return BadRequest(dbUpdateException.Message);
+            }
+            catch (Exception exception)
+            {
+                return BadRequest(exception.Message);
+            }
         }
     }
 }

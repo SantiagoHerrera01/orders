@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Tests\\Orders.Tests.csproj": {}
+    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Tests\\Orders.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Tests\\Orders.Tests.csproj": {
+    "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Tests\\Orders.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Tests\\Orders.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Tests\\Orders.Tests.csproj",
         "projectName": "Orders.Tests",
-        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Tests\\Orders.Tests.csproj",
+        "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Tests\\Orders.Tests.csproj",
         "packagesPath": "C:\\Users\\RYZEN 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Tests\\obj\\",
+        "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Si\\NuGetPackages"
@@ -53,11 +53,11 @@
           "dependencies": {
             "MSTest": {
               "target": "Package",
-              "version": "[3.8.3, )"
+              "version": "[3.6.4, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.13.0, )"
+              "version": "[17.12.0, )"
             }
           },
           "imports": [

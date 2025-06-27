@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj",
       "projectName": "Orders.Shared",
-      "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\Orders.Shared.csproj",
+      "projectPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\Orders.Shared.csproj",
       "packagesPath": "C:\\Users\\RYZEN 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\.net\\orders\\Orders\\Orders.Shared\\obj\\",
+      "outputPath": "C:\\Users\\RYZEN 5\\Desktop\\Estudio\\Sena\\Jhohan back\\Orders_Sena_Backend\\Orders\\Orders.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Si\\NuGetPackages"
